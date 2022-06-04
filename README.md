@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RestoreBack
 
 Save chrome tabs as sessions 
@@ -24,3 +25,6 @@ Save chrome tabs as sessions
 3. Click on "Load unpacked" and load the cloned repository
 4. The extension will be now available on chrome
 5. Still getting stuck ? Check this website for help: <a href="https://www.cnet.com/tech/services-and-software/how-to-install-chrome-extensions-manually/">Manually install extensions</a>
+=======
+# RestoreBack
+>>>>>>> 0e93310e4296495e6eb6c9975db54e9d1baa6ec9
